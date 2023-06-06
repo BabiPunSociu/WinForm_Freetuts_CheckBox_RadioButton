@@ -1,0 +1,11 @@
+C:\Users\ADMIN\source\LapTrinhTrucQuan\FREETUTS\CoBan_CheckBox_RadioButton\CoBan_CheckBox_RadioButton\bin\Debug\CoBan_CheckBox_RadioButton.exe.config
+C:\Users\ADMIN\source\LapTrinhTrucQuan\FREETUTS\CoBan_CheckBox_RadioButton\CoBan_CheckBox_RadioButton\bin\Debug\CoBan_CheckBox_RadioButton.exe
+C:\Users\ADMIN\source\LapTrinhTrucQuan\FREETUTS\CoBan_CheckBox_RadioButton\CoBan_CheckBox_RadioButton\bin\Debug\CoBan_CheckBox_RadioButton.pdb
+C:\Users\ADMIN\source\LapTrinhTrucQuan\FREETUTS\CoBan_CheckBox_RadioButton\CoBan_CheckBox_RadioButton\obj\Debug\CoBan_CheckBox_RadioButton.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\FREETUTS\CoBan_CheckBox_RadioButton\CoBan_CheckBox_RadioButton\obj\Debug\CoBan_CheckBox_RadioButton.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\FREETUTS\CoBan_CheckBox_RadioButton\CoBan_CheckBox_RadioButton\obj\Debug\CoBan_CheckBox_RadioButton.Form1.resources
+C:\Users\ADMIN\source\LapTrinhTrucQuan\FREETUTS\CoBan_CheckBox_RadioButton\CoBan_CheckBox_RadioButton\obj\Debug\CoBan_CheckBox_RadioButton.Properties.Resources.resources
+C:\Users\ADMIN\source\LapTrinhTrucQuan\FREETUTS\CoBan_CheckBox_RadioButton\CoBan_CheckBox_RadioButton\obj\Debug\CoBan_CheckBox_RadioButton.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\FREETUTS\CoBan_CheckBox_RadioButton\CoBan_CheckBox_RadioButton\obj\Debug\CoBan_CheckBox_RadioButton.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\FREETUTS\CoBan_CheckBox_RadioButton\CoBan_CheckBox_RadioButton\obj\Debug\CoBan_CheckBox_RadioButton.exe
+C:\Users\ADMIN\source\LapTrinhTrucQuan\FREETUTS\CoBan_CheckBox_RadioButton\CoBan_CheckBox_RadioButton\obj\Debug\CoBan_CheckBox_RadioButton.pdb
